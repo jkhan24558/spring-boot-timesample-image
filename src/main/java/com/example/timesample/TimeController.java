@@ -24,7 +24,7 @@ public class TimeController {
         response.put("milliseconds", now);
         response.put("date", date.toString());
         response.put("foo","bar");
-        response.put("vmware","pivotal");
+        response.put("vmware","pivotal1");
 
         return response;
     }
