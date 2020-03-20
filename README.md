@@ -1,7 +1,7 @@
 # spring-boot-timesample
 
 ### Dockerize
-Create `Dockerfile` like the one in this repo. test push again
+Create `Dockerfile` like the one in this repo. Test again
 
     mvn package
     docker build -t spring-boot-timesample .
